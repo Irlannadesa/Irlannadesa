@@ -1,17 +1,22 @@
 ## Olááá Devs,  eu sou a Irlanna de Sá!
 
+
 Resido em Goiânia GO.
 
-Estou me capacitando para me tornar uma Desenvolvedora Front-end .
 
-Nas horas livres Busco me aperfeiçoar no ramo da tecnologia:
-
-JavaScript
+Estou me capacitando para me tornar uma Desenvolvedora Front-end,
 
 
-👩‍💻 Estou estudando Front-end com JavaScript, Express e utilizando o framework Bootstrap;
+Nas horas livres Busco me aperfeiçoar no ramo da tecnologia,
 
-💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+
+
+👩‍💻 Estou estudando Front-end com JavaScript, Express e utilizando o framework Bootstrap,
+
+
+
+💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira,
+
 
 👾 Meus hobbies são:
 
@@ -20,7 +25,6 @@ curtir a familia;
 Ler livros;
 
 
-📫 Se quiser pode enviar um e-mail para irlannacoelho@gmail.com
 
 
 <div 
@@ -32,7 +36,7 @@ Ler livros;
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  
 </div>
   
   ##
@@ -42,6 +46,5 @@ Ler livros;
   <a href = "mailto:irlannacoelho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/irlanna-de-s%C3%A1-66274910a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
