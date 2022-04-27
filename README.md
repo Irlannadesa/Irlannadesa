@@ -4,7 +4,7 @@
 Resido em Goiânia GO.
 
 
-Estou me capacitando para me tornar uma Desenvolvedora Front-end,
+Estou estudando para me tornar uma Desenvolvedora Front-end,
 
 
 Nas horas livres Busco me aperfeiçoar no ramo da tecnologia,
