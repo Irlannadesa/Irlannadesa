@@ -20,9 +20,9 @@ Nas horas livres Busco me aperfeiçoar no ramo da tecnologia,
 
 👾 Meus hobbies são:
 
-Estudar ;
-curtir a familia;
-Ler livros;
+Estudar,
+curtir a familia e
+ler livros.
 
 
 
