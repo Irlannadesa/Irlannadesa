@@ -1,19 +1,47 @@
-## Olá Devs,  eu sou a Irlanna de Sá!
+<h1 align="center"> Sejam bem vindos! </h1>
+<hr />
+<a href="https://github.com/irlannadesa" target="_blank">
+  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a><br />
+<p align="left" > 
+  <b>Faaallaaa Devs!</b>
+</p>
+<a href="https://www.instagram.com/irlanna.de.sa/" target="_blank">
+  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a><br />
+<p align="left" >
+Me chamo <b> Irlanna de Sá</b>.
+</p>
+<a href="https://www.linkedin.com/in/irlanna-de-s%C3%A1-66274910a/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+<p align="left" >
+Atualmente moro em Goiânia-Go .<br />
+Estou me capacitando para me tornar uma <b>Desenvolvedora Full stack </b>.
+</p>
+<p align="left" >
+Nas horas livres Busco me aperfeiçoar no ramo da tecnologia:
+</p>
+<p align="esquerda" >
+<ul>
+ 
+  </li>
 
-Resido em Goiânia GO.
+</ul>
+</p>
 
-Estou estudando para me tornar uma Desenvolvedora Front-end,
-
-Nas horas livres Busco me aperfeiçoar no ramo da tecnologia
-
-💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira.
-
-
-👾 Meus hobbies são:
-
-Estudar,
-curtir as minhas princesas e  ler livros.
-
+**Meus interesses pessoais:**
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/104098379/191314903-9f8da73e-7ca1-457c-aa19-7487a2035f12.png" width="400px" />    
+- 💻 Estou procurando minha primeira experiência como Desenvolvedora Jr;
+- 🌱 Atualmente, aprendendo muito e focando meus estudos;
+- 💬 Pergunte-me sobre qualquer coisa ... Me orgulho em gostar muito de ajudar outras pessoas.. Aprendo muito ensinando o proximo!
+- 👾 Meus hobbies são: 
+  - Estudar ; 
+  - Viajar;
+  - Curtir minhas duas princesas;
+  
+- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
+- 📫 Se quiser pode enviar um e-mail para irlannadesa@icloud.com
 
 
 
@@ -31,9 +59,4 @@ curtir as minhas princesas e  ler livros.
   
   ##
  
-<div> 
-  <a href="https://www.instagram.com/irlanna.de.sa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:irlannacoelho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/irlanna-de-s%C3%A1-66274910a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.com/channels/#2563 " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-</div>
+
