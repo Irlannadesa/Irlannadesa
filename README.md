@@ -17,10 +17,10 @@ Me chamo <b> Irlanna de Sá</b>.
 </a>
 <p align="left" >
 Atualmente moro em Goiânia-Go .<br />
-Estou me capacitando para me tornar uma <b>Desenvolvedora Full stack </b>.
+Estou me capacitando para me tornar uma <b>Desenvolvedora FullStack </b>.
 </p>
 <p align="left" >
-Nas horas livres Busco me aperfeiçoar no ramo da tecnologia:
+Nas horas livres Busco me aperfeiçoar no ramo da tecnologia.
 </p>
 <p align="esquerda" >
 <ul>
