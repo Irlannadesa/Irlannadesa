@@ -17,7 +17,7 @@ Me chamo <b> Irlanna de Sá</b>.
 </a>
 <p align="left" >
 Atualmente moro em Goiânia-Go .<br />
-Estou me capacitando para me tornar uma <b>Desenvolvedora FullStack </b>.
+Sou Desenvolvedora Front-End</b>.
 </p>
 <p align="left" >
 Nas horas livres Busco me aperfeiçoar no ramo da tecnologia.
