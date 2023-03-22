@@ -16,27 +16,26 @@ Me chamo <b> Irlanna de Sá</b>.
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Atualmente moro em Goiânia-Go .<br />
+Atualmente moro em Goiânia-Go;
+<br>
 Sou Desenvolvedora Front-End</b>.
 </p>
 <p align="left" >
-Dedicando minhas horas livres para me aperfeiçoar cada vez mais nesse mundo incrível da tecnologia.
+Dedico minhas horas livres para me aperfeiçoar cada vez mais nesse mundo incrível da tecnologia.
 </p>
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/104098379/191314903-9f8da73e-7ca1-457c-aa19-7487a2035f12.png" width="400px" />    
 - 🌱 Atualmente, sou estagiária de Desenvolvimento de Solftware;<br>
-- 💬Se você quiser se conectar comigo ou trocar ideias sobre tecnologia, fique à vontade para me chamar,<br>
-- 📫 Se quiser pode enviar um e-mail para irlannadesa@icloud.com<br>
-
+- 💬Se você quiser se conectar comigo ou trocar ideias sobre tecnologia, fique à vontade para me chamar, pode enviar um e-mail para irlannadesa@icloud.com<br>
+<br>
+<br>
 
 <div 
   <a href="https://github.com/irlannacoelho">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=irlannadesa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
 </div>
 <br>
-
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -47,6 +46,4 @@ Dedicando minhas horas livres para me aperfeiçoar cada vez mais nesse mundo inc
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ###
- 
-
+  
