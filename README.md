@@ -30,7 +30,6 @@ Nas horas livres Busco me aperfeiçoar no ramo da tecnologia.
 </ul>
 </p>
 
-**Meus interesses pessoais:**
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/104098379/191314903-9f8da73e-7ca1-457c-aa19-7487a2035f12.png" width="400px" />    
 - 🌱 Atualmente, aprendendo muito e focando em meus estudos;
 - 💬 Pergunte-me sobre qualquer coisa ... Me orgulho em gostar muito de ajudar outras pessoas.. Aprendo muito ensinando o proximo!
