@@ -22,13 +22,7 @@ Sou Desenvolvedora Front-End</b>.
 <p align="left" >
 Dedicando minhas horas livres para me aperfeiçoar cada vez mais nesse mundo incrível da tecnologia.
 </p>
-<p align="esquerda" >
-<ul>
- 
-  </li>
 
-</ul>
-</p>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/104098379/191314903-9f8da73e-7ca1-457c-aa19-7487a2035f12.png" width="400px" />    
 - 🌱 Atualmente, sou estagiária de Desenvolvimento de Solftware;<br>
@@ -39,16 +33,18 @@ Dedicando minhas horas livres para me aperfeiçoar cada vez mais nesse mundo inc
 <div 
   <a href="https://github.com/irlannacoelho">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=irlannadesa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irlannadesa&layout=compact&langs_count=7&theme=dracula"/>
+  
 </div>
+<br>
+
+
 <div style="display: inline_block"><br>
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ###
