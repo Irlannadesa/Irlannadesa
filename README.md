@@ -20,7 +20,7 @@ Atualmente moro em Goiânia-Go .<br />
 Sou Desenvolvedora Front-End</b>.
 </p>
 <p align="left" >
-Nas horas livres Busco me aperfeiçoar no ramo da tecnologia.
+Dedicando minhas horas livres para me aperfeiçoar cada vez mais nesse mundo incrível da tecnologia.
 </p>
 <p align="esquerda" >
 <ul>
@@ -31,16 +31,9 @@ Nas horas livres Busco me aperfeiçoar no ramo da tecnologia.
 </p>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/104098379/191314903-9f8da73e-7ca1-457c-aa19-7487a2035f12.png" width="400px" />    
-- 🌱 Atualmente, aprendendo muito e focando em meus estudos;
-- 💬 Pergunte-me sobre qualquer coisa ... Me orgulho em gostar muito de ajudar outras pessoas.. Aprendo muito ensinando o proximo!
-- 👾 Meus hobbies são: 
-  - Estudar ; 
-  - Viajar;
-  - Curtir minhas duas princesas;
-  
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um e-mail para irlannadesa@icloud.com
-
+- 🌱 Atualmente, sou estagiária de Desenvolvimento de Solftware;<br>
+- 💬Se você quiser se conectar comigo ou trocar ideias sobre tecnologia, fique à vontade para me chamar,<br>
+- 📫 Se quiser pode enviar um e-mail para irlannadesa@icloud.com<br>
 
 
 <div 
