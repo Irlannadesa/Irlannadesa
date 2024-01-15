@@ -26,7 +26,7 @@ Dedico minhas horas livres para me aperfeiçoar cada vez mais nesse mundo incrí
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/104098379/191314903-9f8da73e-7ca1-457c-aa19-7487a2035f12.png" width="400px" />    
-- 🌱 Atualmente, sou estagiária de Desenvolvimento de Solftware;<br>
+- 🌱 Atualmente, trabalho com Desenvolvimento de Solftware com a tecnologia UI5;<br>
 - 💬Se você quiser se conectar comigo ou trocar ideias sobre tecnologia, fique à vontade para me chamar, pode enviar um e-mail para irlannadesa@icloud.com<br>
 <br>
 <br>
